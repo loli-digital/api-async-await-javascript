@@ -13,3 +13,5 @@
     <li>Si ocurre algún error en la petición (por ejemplo, no hay conexión o la API responde mal), la promesa debe rechazar y mostrar un mensaje de error en pantalla</li>
     <li>El mensaje debe aparecer dentro de un elemento del HTML (no solo en consola)</li>
 </ul>
+<h3>Imagen del proyecto:</h3>
+<img src="portada.png" alt="Programa que muestra un nombre e email de usuaria">
